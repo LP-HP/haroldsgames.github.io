@@ -1,0 +1,8 @@
+/*background color is black to contrast from canvas */
+body {
+    background-color: black;
+}
+/*canvas color is white because it would look weird with any other color, as the eyes in the bird image are transparent*/
+#cando {
+    background-color: white;
+}
